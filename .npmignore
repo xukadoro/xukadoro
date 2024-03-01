@@ -1,0 +1,8 @@
+src
+examples
+.images
+_tests_
+jestconfig.json
+tsconfig.json
+tslint.json
+.prettierrc
